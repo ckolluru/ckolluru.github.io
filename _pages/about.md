@@ -1,11 +1,18 @@
 ---
 permalink: /
-title: "Site"
+title: "Hello there, I'm Chaitanya!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+I'm a software engineer in the image processing team at [Elucid](https://www.elucid.com). 
+
+My interests lie in developing deep-learning based image analysis software, specifically for medical imaging. I have expertise in working with a wide range of pre-clinical and clinical imaging data, ranging from optical microscopy to CT. For my [PhD](http://rave.ohiolink.edu/etdc/view?acc_num=case1704816346125624), I designed and developed a novel serial block-face imaging system for analyzing ex-vivo peripheral nerve tissues. I'm also interested in contributing towards [open-source software](https://github.com/ckolluru/NerveTracker) and learning from others in this area.
+
+
+
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
