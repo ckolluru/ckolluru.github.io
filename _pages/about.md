@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a software engineer in the image processing team at [Elucid](https://www.elucid.com). 
 
-My interests lie in developing deep-learning based image analysis software, specifically for medical imaging. I have expertise in working with a wide range of pre-clinical and clinical imaging data, ranging from optical microscopy to CT. For my [PhD](http://rave.ohiolink.edu/etdc/view?acc_num=case1704816346125624), I designed and developed a novel serial block-face imaging system for microscopic analysis of peripheral nerves. I'm also interested in contributing towards [open-source software](https://github.com/ckolluru/NerveTracker) and learning from others in this area.
+My interests lie in developing deep-learning based image analysis software, specifically for medical imaging. I have expertise working with a wide range of pre-clinical and clinical imaging data, ranging from optical microscopy to CT. For my [PhD](http://rave.ohiolink.edu/etdc/view?acc_num=case1704816346125624), I designed and developed a novel serial block-face imaging system for microscopic analysis of peripheral nerves. I'm also interested in contributing towards [open-source software](https://github.com/ckolluru/NerveTracker) and learning about new developments in the field.
 
 
 
