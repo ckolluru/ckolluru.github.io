@@ -1,7 +1,7 @@
 ---
 title: "NerveTracker: a Python-based software toolkit for visualizing and tracking groups of nerve fibers in serial block-face microscopy with ultraviolet surface excitation images"
 collection: publications
-category: manuscripts
+category: 
 permalink: /publication/2024-06-18-tractography
 excerpt: 'Created a software for microscopic tractography in peripheral nerves. Inspired by similar toolkits that process diffusion MR datasets of the brain.'
 date: 2024-06-18
@@ -19,4 +19,4 @@ We modified common computer vision algorithms (optic flow and structure tensor) 
 
 We found that a normalized Dice overlap (Dicenorm) metric had a mean value above 0.75 across several millimeters along the nerve. We also found that the tractograms were robust to changes in certain image properties (e.g., downsampling in-plane and out-of-plane), which resulted in only a 2% to 9% change to the mean Dicenorm values. In a vagus nerve sample, tractography allowed us to readily identify that subsets of fibers from four distinct fascicles merge into a single fascicle as we move ∼5  mm along the nerve’s length.  
 
-Overall, we demonstrated the feasibility of performing automated microscopic tractography on 3D-MUSE datasets of peripheral nerves. The software should be applicable to other imaging approaches. The code is available at https://github.com/ckolluru/NerveTracker.
+Overall, we demonstrated the feasibility of performing automated microscopic tractography on 3D-MUSE datasets of peripheral nerves. The software should be applicable to other imaging approaches. The code is available at [this link](https://github.com/ckolluru/NerveTracker.)
