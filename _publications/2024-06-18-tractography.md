@@ -3,7 +3,7 @@ title: "NerveTracker: a Python-based software toolkit for visualizing and tracki
 collection: publications
 category: manuscripts
 permalink: /publication/2024-06-18-tractography
-excerpt: 'Created a software for microscopic tractography in peripheral nerves. Inspired by similar toolkits that process diffusion MR datasets of the brain.'
+excerpt: 'Created a software for microscopic tractography in peripheral nerves. Work inspired by similar research toolkits that process diffusion MR datasets of the brain.'
 date: 2024-06-18
 venue: 'Jounal of Biomedical Optics'
 slidesurl: 
