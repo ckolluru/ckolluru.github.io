@@ -1,7 +1,7 @@
 ---
 title: "NerveTracker: a Python-based software toolkit for visualizing and tracking groups of nerve fibers in serial block-face microscopy with ultraviolet surface excitation images"
 collection: publications
-category: 
+category: manuscripts
 permalink: /publication/2024-06-18-tractography
 excerpt: 'Created a software for microscopic tractography in peripheral nerves. Inspired by similar toolkits that process diffusion MR datasets of the brain.'
 date: 2024-06-18
