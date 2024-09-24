@@ -11,6 +11,8 @@ I'm a software engineer in the image processing team at [Elucid](https://www.elu
 
 My interests lie in developing deep-learning based image analysis software, specifically for medical imaging. I have expertise working with a wide range of pre-clinical and clinical imaging data, ranging from optical microscopy to CT. For my [PhD](http://rave.ohiolink.edu/etdc/view?acc_num=case1704816346125624), I designed and developed a novel serial block-face imaging system for microscopic analysis of peripheral nerves. I'm also interested in contributing towards [open-source software](https://github.com/ckolluru) and learning about new developments in the field.
 
+Outside of work, I enjoy playing tennis and cooking Indian food, specifically [biryani](https://www.youtube.com/watch?v=6XlMguO9r-M))
+
 
 
 
