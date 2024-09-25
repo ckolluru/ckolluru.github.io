@@ -13,7 +13,6 @@ My interests lie in developing deep-learning based image analysis software, spec
 
 Outside of work, I enjoy playing tennis and making Indian food, specifically [biryani](https://www.youtube.com/watch?v=6XlMguO9r-M)
 
-| | |
 |:-------------------------:|:-------------------------:|
 |<img width="1600" alt="Sar Pass trail, in Himachal Pradesh, India" src="./images/grid-himalayas.png">  |  <img width="1600" alt="Fields near Araku, a hill station near my hometown" src="./images/grid-araku.png">|
 |<img width="1600" alt="Cumin noodles at Xian's, great food" src="./images/grid-xians.png">  |  <img width="1600" alt="CWRU, my graduate school" src="./images/grid-cwru.png">|
