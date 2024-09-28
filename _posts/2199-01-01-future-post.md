@@ -7,16 +7,13 @@ tags:
   - learning
 ---
 
-Introduction
-======
-
 I recently got interested in learning more about graph neural network problems. The following blog posts are to help me document my learning along the way.
 
-I'm following Dr. Leskovec's video lectures and course notes at Stanford (CS224W). Link to the playlist and course notes are below.
+I'm following Dr. Leskovec's video lectures and course notes at Stanford (CS224W). 
 
-[![CS224W youtube playlist](https://img.youtube.com/vi/JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn/0.jpg)](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
+Video lectures: [CS224W youtube playlist](https://img.youtube.com/vi/JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn/0.jpg)
 
-Course notes: https://snap.stanford.edu/class/cs224w-2021/
+Course notes: [https://snap.stanford.edu/class/cs224w-2021/](https://snap.stanford.edu/class/cs224w-2021/)
 
 Previous offerings of the course also seem to be available, although the class content seems to have been modified around a bit.
 
