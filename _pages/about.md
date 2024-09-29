@@ -11,7 +11,7 @@ I'm a software engineer in the image processing team at [Elucid](https://www.elu
 
 My interests lie in developing deep-learning based image analysis software, specifically for medical imaging. I have expertise working with a wide range of pre-clinical and clinical imaging data, ranging from optical microscopy to CT. For my [PhD](http://rave.ohiolink.edu/etdc/view?acc_num=case1704816346125624), I designed and developed a novel serial block-face imaging system for microscopic analysis of peripheral nerves. I'm also interested in contributing towards [open-source software](https://github.com/ckolluru) and learning about new developments in the field.
 
-Outside of work, I enjoy playing tennis and making Indian food, specifically [biryani](https://www.youtube.com/watch?v=6XlMguO9r-M)
+Outside of work, I enjoy playing tennis and making Indian food, especially [biryani!](https://www.youtube.com/watch?v=6XlMguO9r-M)
 
 <!-- |:-------------------------:|:-------------------------:|
 |<img style="width:150px;" alt="Sar Pass trail, in Himachal Pradesh, India" src="./images/grid-himalayas.png">  |  <img style="width:150px;" alt="Fields near Araku, a hill station near my hometown" src="./images/grid-araku.png">|
