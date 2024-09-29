@@ -22,4 +22,5 @@ An example image stack of a single fascicle is shown below, the dark rings are t
 
 ![Results](/images/portfolio/muse_results.gif)
 
+![Results - slices](/images/portfolio/muse_results.png)
 
