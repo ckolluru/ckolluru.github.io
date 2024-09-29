@@ -12,6 +12,8 @@ This is a challenging project since these nerves are thin and long structures, r
 
 The group at CWRU first developed methods using [micro-CT](https://doi.org/10.1088/1741-2552/ac9643) for this task, and showed that fascicle bundles (packed groups of individual nerve fibers/neurons) have a complex plexiform structure, even when analyzed across 5 centimeters of length. For such an organization, it becomes necessary to view the nerve at a higher resolution, to see how individual nerve fibers move across fascicles. I built sample preparation, imaging and image analysis methods for a prototype system for this task, using concepts from other serial block-face imaging systems and nerve staining methods from EM.
 
+![Histology and fascicle organization](/images/portfolio/phd_research_2.png)
+
 We used [MUSE microscopy](https://doi.org/10.1038/s41551-017-0165-y) in a serial block-face imaging system. The method was able to analyze blocks up to 12 mm in length and with 3-4 micron resolution in plane. The sectioning thickness can be set to 3 microns as well, since the blocks are embedded in a plastic resin, glycol methacrylate. We were able to identify examples of fascicles merging and splitting, and fibers moving across. With methods from computer vision (optic flow), we were able to track these changes and create representative tractograms.
 
 ![Methods](/images/portfolio/phd_research_crop.png)
