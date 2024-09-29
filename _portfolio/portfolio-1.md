@@ -16,6 +16,8 @@ We used [MUSE microscopy](https://doi.org/10.1038/s41551-017-0165-y) in a serial
 
 ![Methods](./images/portfolio/phd_research.png)
 
+An example image stack of a single fascicle is shown below, the dark circles are the myelin sheaths of a myelinated neuron. The video is a stack flythrough across z-slices.
 
+![Results](./images/portfolio/MUSE_results.gif)
 
 
