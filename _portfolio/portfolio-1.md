@@ -1,6 +1,6 @@
 ---
 title: "Imaging peripheral nerves with serial block-face microscopy"
-excerpt: "PhD research<br/><img src='/images/portfolio/phd_research.png'>"
+excerpt: "PhD research<br/><img src='/images/portfolio/phd_research_crop.png' height='400'>"
 collection: portfolio
 ---
 
@@ -14,7 +14,7 @@ The group at CWRU first developed methods using [micro-CT](https://doi.org/10.10
 
 We used [MUSE microscopy](https://doi.org/10.1038/s41551-017-0165-y) in a serial block-face imaging system. The method was able to analyze blocks up to 12 mm in length and with 3-4 micron resolution in plane. The sectioning thickness can be set to 3 microns as well, since the blocks are embedded in a plastic resin, glycol methacrylate. We were able to identify examples of fascicles merging and splitting, and fibers moving across. With methods from computer vision (optic flow), we were able to track these changes and create representative tractograms.
 
-![Methods](/images/portfolio/phd_research.png)
+![Methods](/images/portfolio/phd_research_crop.png)
 
 An example image stack of a single fascicle is shown below, the dark circles are the myelin sheaths of a myelinated neuron. The video is a stack flythrough across z-slices.
 
