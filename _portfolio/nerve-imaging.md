@@ -18,7 +18,7 @@ I built sample preparation, imaging and image analysis methods for a prototype s
 
 ![Methods](/images/portfolio/phd_research_crop2.png)
 
-Image slices at regular spacing within an image stack is shown below. The dark rings are the myelin sheaths of a myelinated neuron. As we progress in the stack, we identify a small group of fibers (dashed lines) moving from one fascicle to another.
+Image slices at regular spacing within an image stack are shown below. The dark rings are the myelin sheaths of a myelinated neuron. As we progress in the stack, we identify a small group of fibers (dashed lines) moving from one fascicle to another.
 
 ![Results - slices](/images/portfolio/muse_results.png)
 
