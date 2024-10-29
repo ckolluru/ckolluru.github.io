@@ -55,7 +55,7 @@ A map is a collection of key-value pairs, where each key is unique. C++ offers t
 
 Maps allow custom comparison functions to determine the order of keys. This might be helpful if you want to have a data structure like a priority queue.
 
-For denoting unsigned integers, use std::size_t
+For denoting unsigned integers, use `std::size_t`
 
 A good rule of thumb to decide between structs and classes; use classes when member variables are related by an "invariant". If there is some rule that you would apply on the data (say the date of the month should always be valid), it is best to keep that logic in a function and make the variable private rather that checking that logic in all places that it can be modified (if made public).
 
@@ -92,3 +92,10 @@ int main() {
 
 ```
 Using a reference indicates that the Circle does not own the LineSegment. This is important for conveying the design intent. The Circle uses the LineSegment, but it does not manage its lifetime (i.e., it doesn't delete or create it). This can help prevent memory management issues.
+
+`std::vector` is an example class that uses generic programming, allowing one to create a vector of int, floats, chars etc.
+
+Here are some cheatsheets for GDB. Seeing the underlying memory addresses and 0s and 1s helps remove the complexity underlying memory management.
+
+![GDB cheatsheet 1](/images/gdb_cheatsheet_1.png)
+![GDB cheatsheet 2](/images/gdb_cheatsheet_2.png)
