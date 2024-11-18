@@ -8,7 +8,11 @@ tags:
 
 Some pointers (pun intended) for C++ interviews.
 
+These are my course notes for the C++ course on Udacity.
+
 The best reference guidelines are published here: [C++ guidelines by Bjarne Stroustrup](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
+
+A tutorial on using CMake is [here](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)
 
 For the `&` symbol, if it appears on the left side of an equation (e.g. when declaring a variable), it means that the variable is declared as a reference. If the `&` appears on the right side of an equation, or before a previously defined variable, it is used to return a memory address.
 
@@ -99,3 +103,14 @@ Here are some cheatsheets for GDB. Seeing the underlying memory addresses and 0s
 
 ![GDB cheatsheet 1](/images/gdb_cheatsheet_1.png)
 ![GDB cheatsheet 2](/images/gdb_cheatsheet_2.png)
+
+The bit size of the CPU decides how many bytes of data it can access in RAM memory at the same time. A 16-bit CPU can access 2 bytes (with each byte consisting of 8 bit) while a 64-bit CPU can access 8 bytes at a time.
+
+
+Size of stack is limited to a few MBs. Memory management on the stack is straightforward. Heap is used with the `new` keyword, you need a corresponding `delete` statement, else there will be trouble. Heap size can grow much larger. Smart pointers provides some benefits in this regards
+
+Copy and move semantics, RAII (resource allocation is initialization)
+
+Locks, files will all be cleaned up at the end `}`.
+
+With virtual memory, a mapping is performed between the virtual address space a program sees and the physical addresses of various storage devices such as the RAM but also the hard disk.
